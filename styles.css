@@ -1,1 +1,24 @@
-/*  your css code here. If applicable */
+#card{
+	background-color:skyblue;
+	text-align:center;
+	margin-right:100px;
+	margin-left:100px;
+	padding-bottom:50px;
+}
+
+h1{
+	font-size:70px;
+	padding-top:0px;
+}
+p{
+	font-size:30px;
+}
+img{
+padding-top:20px;	
+}
+button{
+	background-color:pink;
+	 font-size:50px;
+	  border-radius:20px;
+	  
+}
